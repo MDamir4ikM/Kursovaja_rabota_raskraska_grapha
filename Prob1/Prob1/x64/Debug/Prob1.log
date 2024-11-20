@@ -1,0 +1,3 @@
+﻿  Prob1.cpp
+C:\Users\User\Desktop\Курсовая работа ЛОАИЗ\Prob1\Prob1\Prob1.cpp(13,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Prob1.vcxproj -> C:\Users\User\Desktop\Курсовая работа ЛОАИЗ\Prob1\x64\Debug\Prob1.exe
